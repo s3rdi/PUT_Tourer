@@ -10,7 +10,9 @@ An Android application designed for active individuals to manage, filter, and ti
 
 ### Demo
 
-![Tourer Demo](./demo.gif)
+<p align="center">
+  <img src="./demo.gif" />
+</p>
 
 ---
 
